@@ -148,6 +148,10 @@ labels = hv.Labels({('x', 'y'): reduced_vectors, 'text': [token for token, _ in 
 
 何か質問があれば [@hpp_ricecake](https://twitter.com/hpp_ricecake)までなんでもどうぞ！
 
+再現実験用の環境構築用コードはこの[リポジトリ](https://github.com/hppRC/visualize-token-embeddings)を参照ください。
+
+
+
 @[tweet](https://twitter.com/hpp_ricecake/status/1400110557097693185?s=21)
 
 
@@ -157,3 +161,7 @@ labels = hv.Labels({('x', 'y'): reduced_vectors, 'text': [token for token, _ in 
 
 結構不思議な分布をしていておもしろい。
 使用したモデルは[bert-base-uncased](https://huggingface.co/bert-base-uncased)。
+
+
+
+@[tweet](https://twitter.com/hpp_ricecake/status/1400427242879012864?s=21)
